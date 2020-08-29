@@ -1,1 +1,1 @@
-This is file4 from GIT.
+This is file4 from GIT, and this is a conflict change inside conflict-branch.
