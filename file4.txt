@@ -1,1 +1,1 @@
-This is file4 from GIT.
+This is file4 from GIT, This is master branch and user should accept this change when git asks to.
